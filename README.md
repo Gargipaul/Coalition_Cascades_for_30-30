@@ -11,6 +11,12 @@
 - Sensitivity: strong gains as keystone increases; diminishing returns beyond **k ≈ 0.15**.
 - Tough traps: no-keystone never tips (∞), keystone tips quickly (≈ few steps).
 
+## Key figures
+![E1 vs E2 vs E3](figures/E1_E2_E3_compare_fixed.png)
+![Keystone sensitivity](figures/keystone_sensitivity_fixed.png)
+![Tough traps](figures/TOUGH_compare.png)
+
+
 **Policy intuition:** Modest, credible keystone commitments (e.g., sector standards/finance/diplomacy) can unlock cascades under polycrisis; after the knee, it’s more efficient to lower costs or strengthen peer networks than to crank keystone further.
 
 **Reproduce:** Run the notebook top-to-bottom. Figures & CSVs are saved to `figures/`.
