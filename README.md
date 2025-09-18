@@ -15,6 +15,6 @@
 
 **Reproduce:** Run the notebook top-to-bottom. Figures & CSVs are saved to `figures/`.
 ## Quick start
-``
+
 pip install -r requirements.txt
 # open and run: Coalition_Cascades.ipynb
