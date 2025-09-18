@@ -14,3 +14,7 @@
 **Policy intuition:** Modest, credible keystone commitments (e.g., sector standards/finance/diplomacy) can unlock cascades under polycrisis; after the knee, it’s more efficient to lower costs or strengthen peer networks than to crank keystone further.
 
 **Reproduce:** Run the notebook top-to-bottom. Figures & CSVs are saved to `figures/`.
+## Quick start
+``
+pip install -r requirements.txt
+# open and run: Coalition_Cascades.ipynb
