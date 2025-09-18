@@ -1,0 +1,2 @@
+TOUGH no keystone: time_to_30 = inf
+TOUGH with keystone: time_to_30 = 2

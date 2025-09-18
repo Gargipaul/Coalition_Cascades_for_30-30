@@ -1,0 +1,35 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Python / envs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+pip-wheel-metadata/
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Build / cache
+build/
+dist/
+.cache/
+.mypy_cache/
+.pytest_cache/
+
+# Data & large intermediates (keep samples only)
+data/
+experiments/
+
+# IDEs
+.vscode/
+.idea/

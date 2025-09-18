@@ -1,0 +1,5 @@
+Coalition Cascades for 30×30 — Summary
+Baseline reaches 30% in 11 steps. With traps (shocks reduce social influence; inertia slows change),
+time-to-30% is 11. Adding a modest keystone nudge drops this to 1 steps. Sensitivity shows a clear knee
+around k≈0.15: strong early gains then diminishing returns, so moderate, credible commitments are efficient.
+Under tough traps, the system never tips without a keystone (∞) but tips quickly with one (~few steps).
